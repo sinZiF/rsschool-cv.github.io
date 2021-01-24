@@ -1,1 +1,0 @@
-https://sinzif.github.io/rsschool-cv/cv
