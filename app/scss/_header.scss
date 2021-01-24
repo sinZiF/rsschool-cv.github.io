@@ -1,0 +1,26 @@
+header {
+    text-align: center;
+
+    h1 {
+        padding: 0;
+        font-family: 'Gloria Hallelujah', cursive;
+        font-size: 90px;
+        margin: 0;
+    }
+
+    p {
+        text-transform: uppercase;
+    }
+
+}
+
+.block {
+    background-color: $rl-bc;
+}
+
+.border-rl {
+    width: 96%;
+    margin: auto;
+    padding: 10px;
+    background-color: $white;
+}
