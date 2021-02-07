@@ -271,3 +271,16 @@ body {
 .icons-git i {
   color: #000000;
 }
+
+.languages {
+  margin-top: 45px;
+}
+
+.languages p {
+  margin: 8px 0 11px;
+  text-transform: uppercase;
+}
+
+.languages p span {
+  font-size: 20px;
+}
