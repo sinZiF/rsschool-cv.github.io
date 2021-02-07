@@ -220,3 +220,67 @@ body {
           transform: translateY(2px);
   padding: 6px;
 }
+
+.footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  background: #83818d;
+  color: #e9ece3;
+  padding: 0 40px;
+}
+
+.footer__icons ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: left;
+      -ms-flex-pack: left;
+          justify-content: left;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 5px 0 0 0;
+}
+
+.footer__icons img {
+  height: 30px;
+}
+
+.footer__icons ul li:not(:last-child) {
+  padding-right: 25px;
+}
+
+.footer__information {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.icons-git {
+  font-size: 35px;
+  padding-bottom: 5px;
+}
+
+.icons-git i {
+  color: #000000;
+}
+
+.languages {
+  margin-top: 45px;
+}
+
+.languages p {
+  margin: 8px 0 11px;
+  text-transform: uppercase;
+}
+
+.languages p span {
+  font-size: 20px;
+}
