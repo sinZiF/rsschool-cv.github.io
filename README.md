@@ -1,5 +1,5 @@
 Links: 
-- GIT-MARCDOWN
+- GIT-MARKDOWN
   - https://sinzif.github.io/rsschool-cv/cv
 
 - RSSCHOOL-CV-HTML
